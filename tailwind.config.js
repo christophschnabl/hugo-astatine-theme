@@ -2,8 +2,8 @@ module.exports = {
   content: [
     "content/**/*.md",
     "layouts/**/*.html",
-    "../personal-website/layouts/**/*.html",
-    "../personal-website/content/**/*.md"
+    "../../layouts/**/*.html",
+    "../../content/**/*.md"
   ],
   theme: {
     container: {
